@@ -1,0 +1,14 @@
+{
+  "name": "whitehatgame1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server"
+  },
+  "repository": {
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
